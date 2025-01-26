@@ -165,3 +165,8 @@ body{
     outline: none;
     border: none;
 }
+@media (width <=600px){
+    #products-container{
+        grid-template-columns:1fr ;
+    }
+}
