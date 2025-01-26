@@ -174,5 +174,18 @@ body{
         padding-top: 10px;
         padding-bottom: 10px;
     }
+    #product-img-container{
+        /* background-color: bisque; */
+        height: 350px;
+    }
+    #product-name{
+        font-size: 22px;
+    }
+    #product-price{
+        font-size: 20px;
+    }
+    #hero-text{
+        right: 2px;
+    }
   
 }
